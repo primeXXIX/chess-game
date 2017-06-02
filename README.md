@@ -55,3 +55,7 @@ Your work will be mainly in deciding how to replicate that formal logic and user
 ### Stretch
 
 - [ ] Game can be played against a computer AI (i.e. human v. computer)
+
+### Notes
+
+- [ ] Click board to move piece AFTER selecting your piece.
