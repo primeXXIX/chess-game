@@ -59,3 +59,4 @@ Your work will be mainly in deciding how to replicate that formal logic and user
 ### Notes
 
 - [ ] Click board to move piece AFTER selecting your piece.
+- [ ] Current game mode is Player vs AI ONLY
